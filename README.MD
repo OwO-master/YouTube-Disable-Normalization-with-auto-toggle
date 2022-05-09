@@ -1,5 +1,5 @@
-Original Script From [url=https://gist.github.com/WouterG]WouterG[/url]  
-Original Script Link [url=https://gist.github.com/WouterG/acf1e901324aed77f466626fb5d6611f#file-tampermonkey-script-js]Here[/url]
+Original Script From [WouterG](https://gist.github.com/WouterG)  
+Original Script Link [Here](https://gist.github.com/WouterG/acf1e901324aed77f466626fb5d6611f#file-tampermonkey-script-js)  
 I add the toggle button to auto enable 100% volume when page loaded.  
 I did not add the back-to-normalize function.  
 But I think you can storage the preset volume scale everytime the new video loaded.
